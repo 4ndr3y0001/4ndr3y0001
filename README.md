@@ -1,44 +1,32 @@
-&#x20;Hi there, I'm Andrey! 👋
+# Hi there, I'm Andrey! 👋
 
+I am an **Information Systems Engineering Student** at **Universidad Central del Ecuador** 🇪🇨. I am passionate about software development, embedded systems, electronics, and data analysis.
 
+---
 
-Information Systems Engineering Student at Universidad Central del Ecuador 🇪🇨.
+### 🛠️ About Me & Skills
 
+* 🎓 **University:** Universidad Central del Ecuador
+* 💻 **Major:** Information Systems Engineering
+* 🚀 **Areas of Interest:** Java Software Development, Embedded Systems, IoT, and Data Analysis
+* 🛠️ **Languages & Tools:** Java, Git, Arduino, R, SQL, among others
 
+---
 
+### 🚀 Featured Projects
 
+1. **Pet Society (Java Application)**
+   * **Description:** A Java application designed to optimize pet care routines, incorporating object-oriented programming principles, data structures, and data persistence.
 
+2. **Automated Greenhouse (Electronics Project)**
+   * **Description:** An automated electronic environmental monitoring and control system utilizing DHT22 temperature/humidity sensors, soil moisture sensors, and an I2C LCD screen. Earned a podium position at the university open house (*casa abierta*).
 
+3. **Generative AI Course**
+   * **Description:** Completed foundational training in Generative Artificial Intelligence, exploring core concepts and practical applications.
 
-🛠️ About Me
+---
 
-&#x20;🎓 University: Universidad Central del Ecuador
+### 📬 Connect with Me
 
-&#x20;💻 Career:Ingeniería en Sistemas de Información
-
-&#x20;🚀 Interests: Java Software Development, Embedded Systems, IoT \& Data Analysis
-
-
-
-
-
-🚀 Featured Projects
-
-1\. Pet Society (Java Application)
-
-&#x20;  EN: Java application designed to optimize pet care routines, utilizing object-oriented programming, data structures, and data persistence.
-
-&#x20;
-
-2\. Automated Greenhouse (Electronics Project)
-
-&#x20;  EN: Automated electronic monitoring system using DHT22 and soil moisture sensors with LCD display control. Earned a podium position at the university open house (casa abierta).
-
-&#x20; 3. Generative AI Course   EN: Completed foundational training in Generative Artificial Intelligence and its practical concepts.
-
-
-
-📬 Connect with me / Contacto
-
-\* \*\*GitHub:\*\* \[4ndr3y0001](https://github.com/4ndr3y0001)
+* 💼 **GitHub:** [4ndr3y0001](https://github.com/4ndr3y0001)
 

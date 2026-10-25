@@ -1,5 +1,3 @@
-
-
 &#x20;Hi there, I'm Andrey! 👋
 
 
@@ -12,7 +10,7 @@ Information Systems Engineering Student at Universidad Central del Ecuador 🇪�
 
 
 
-🛠️ About Me 
+🛠️ About Me
 
 &#x20;🎓 University: Universidad Central del Ecuador
 
@@ -24,13 +22,13 @@ Information Systems Engineering Student at Universidad Central del Ecuador 🇪�
 
 
 
-🚀 Featured Projects 
+🚀 Featured Projects
 
 1\. Pet Society (Java Application)
 
 &#x20;  EN: Java application designed to optimize pet care routines, utilizing object-oriented programming, data structures, and data persistence.
 
-&#x20;  
+&#x20;
 
 2\. Automated Greenhouse (Electronics Project)
 
